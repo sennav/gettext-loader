@@ -1,6 +1,6 @@
 {
-  "name": "gettext-loader",
-  "version": "0.2.2",
+  "name": "gettext-loader3",
+  "version": "0.2.3",
   "description": "gettext webpack loader for creating en.po files",
   "main": "dist/index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrblueblue/gettext-loader.git"
+    "url": "git+https://github.com/sennav/gettext-loader.git"
   },
   "keywords": [
     "gettext",
@@ -26,9 +26,9 @@
   "author": "Jonathan Huang <jon@levity.io>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mrblueblue/gettext-loader/issues"
+    "url": "https://github.com/sennav/gettext-loader/issues"
   },
-  "homepage": "https://github.com/mrblueblue/gettext-loader#readme",
+  "homepage": "https://github.com/sennav/gettext-loader#readme",
   "devDependencies": {
     "babel-core": "^6.2.1",
     "babel-loader": "^6.1.0",

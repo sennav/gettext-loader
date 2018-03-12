@@ -1,5 +1,6 @@
-# gettext-loader
-[![Build Status](https://travis-ci.org/mrblueblue/gettext-loader.svg?branch=master)](https://travis-ci.org/mrblueblue/gettext-loader)
+# gettext-loader3
+
+Yes, I had to do a third package of this, this fork is only meant to publish the msgstr typo from the original repo.
 
 A Webpack loader that compiles Gettext PO files from source code.
 
@@ -107,20 +108,20 @@ And generates a `.po` file from it:
 
 #: assets/jsx/example.jsx 5:23
 msgid "evening star"
-msgtr ""
+msgstr ""
 
 #: assets/jsx/example.jsx 6:17
 msgid "I saw the morning star %d day ago"
-msgtr[0] ""
-msgtr[1] ""
+msgstr[0] ""
+msgstr[1] ""
 
 #: assets/jsx/example.jsx 15:14
 msgid "pegasus"
-msgtr ""
+msgstr ""
 
 #: assets/jsx/example.jsx 18:42
 msgid "moring star"
-msgtr ""
+msgstr ""
 
 ```
 
